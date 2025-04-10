@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+input{
+    padding: 10px ; 
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+.btn{
+    background-color: aquamarine;
+    margin: 10px 2px;
+    border-style:none ;
+    border-radius: 3px;
+    padding: 8px ;
+    font-size: medium;
+
+
+     
+}
+
+button:disabled{
+    cursor: not-allowed;
+
+}

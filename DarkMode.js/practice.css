@@ -1,0 +1,25 @@
+body{
+    margin: 20px 50px;
+}
+
+.container{
+    border: 1px solid black;
+    padding: 40px 50px;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    border-color: blue;
+
+}
+
+
+body.dark{
+    background-color: rgb(22, 13, 13);
+    color: rgb(172, 169, 169);
+}
+
+.container.dark{
+    background-color: rgb(22, 13, 13);
+    color: rgb(172, 169, 169);
+    border-color : white ;
+}

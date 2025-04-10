@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+    
+}
+body{
+    background-color: rgba(230, 230, 224, 0.951)
+}
+
+
+.tipCalculator{
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border: none;
+    box-shadow: 0 2px 7px grey;
+    border-radius: 5px;
+    margin-top: 50px;
+
+}
+
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+.inputcls{
+
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 5px;
+
+}
+
+#calculate{
+    width: 100%;
+    background-color: rgb(42, 152, 17);
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    
+
+}

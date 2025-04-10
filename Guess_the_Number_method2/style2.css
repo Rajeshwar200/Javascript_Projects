@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    margin-top: 15px;
+    padding: 5px 10px;
+    background-color: aquamarine;
+    border-style: none;
+    border-radius: 5px;
+}

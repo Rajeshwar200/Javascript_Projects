@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+.counter{
+    font-size: 3rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+
+}
+
+button{
+    height: 2rem;
+    width: 4rem;
+    background-color: aquamarine;
+    border-style: none;
+    border-radius: 5px;
+    margin: 15px 2px;
+}
+
+.input-cls{
+    width: 5rem;
+}
